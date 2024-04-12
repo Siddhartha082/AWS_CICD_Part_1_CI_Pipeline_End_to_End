@@ -1,4 +1,4 @@
-# note - AWS cd part 2 - Final chapter  - https://github.com/Siddhartha082/AWS_CD_Part_2-CodePipeline-Final_Chapter
+# note - AWS Cd part 2 - Final chapter  - https://github.com/Siddhartha082/AWS_CD_Part_2-CodePipeline-Final_Chapter
 
 # AWS Continuous Integration 
 
